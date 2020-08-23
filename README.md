@@ -9,5 +9,4 @@ The project consisted of:
 ## Resources
 - Data source:
     - [OpenweatherMap API](https://openweathermap.org/api)
-    - 
 - Technologies: Python, Pandas, Matplotlib, SciPy, Citipy, Jupyter Notebook, Visual Studio Code 1.43.1
